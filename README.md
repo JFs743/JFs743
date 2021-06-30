@@ -2,7 +2,7 @@
 - 👀 I’m interested in FPV, making Games and automation
 - 🌱 I’m currently learning, I'm always learning 😉
 - 💞️ I’m looking to collaborate on: open to try anything, I guess
-- 📫 How to reach me @JFs743 everywhere (#4827 on Discord)
+- 📫 How to reach me? @JFs743 everywhere (#4827 on Discord)
 
 <!---
 JFs743/JFs743 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
